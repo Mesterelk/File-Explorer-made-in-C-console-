@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618687561 source:d:\aplicatii\proiect info graf\main.cpp
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<io.h>
+	<Shellapi.h>
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<dirent.h>
+
